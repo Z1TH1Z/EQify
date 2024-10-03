@@ -3,8 +3,8 @@ This is an app that will change the equalizer settings of the device according t
 
 Required Modules :<br/>
 Requests<br/>  
-time <br/>
-flask.<br/> 
+Time <br/>
+Flask.<br/> 
 
 Instructions:
   Run 'access_token.py'. <br/>
